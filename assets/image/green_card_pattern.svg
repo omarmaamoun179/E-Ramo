@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="244" height="162" viewBox="0 0 244 162">
+  <defs><clipPath id="card"><rect width="244" height="162" rx="20"/></clipPath></defs>
+  <g clip-path="url(#card)" fill="none" stroke="#B5E4C4" stroke-opacity="0.20" stroke-width="1.8" stroke-linecap="round">
+    <g transform="translate(10 -1) scale(0.8571)"><ellipse cx="3.2" cy="3.5" rx="2.1" ry="2.7"/><path d="M3 13 11 1"/><ellipse cx="10.8" cy="10.5" rx="2.1" ry="2.7"/></g>
+    <g transform="translate(46.5 2.5) scale(0.7857)"><ellipse cx="3.2" cy="3.5" rx="2.1" ry="2.7"/><path d="M3 13 11 1"/><ellipse cx="10.8" cy="10.5" rx="2.1" ry="2.7"/></g>
+    <g transform="translate(79 4) scale(0.5714)"><ellipse cx="3.2" cy="3.5" rx="2.1" ry="2.7"/><path d="M3 13 11 1"/><ellipse cx="10.8" cy="10.5" rx="2.1" ry="2.7"/></g>
+    <g transform="translate(113.5 4.5) scale(0.5000)"><ellipse cx="3.2" cy="3.5" rx="2.1" ry="2.7"/><path d="M3 13 11 1"/><ellipse cx="10.8" cy="10.5" rx="2.1" ry="2.7"/></g>
+    <g transform="translate(147 4) scale(0.5714)"><ellipse cx="3.2" cy="3.5" rx="2.1" ry="2.7"/><path d="M3 13 11 1"/><ellipse cx="10.8" cy="10.5" rx="2.1" ry="2.7"/></g>
+    <g transform="translate(180 4) scale(0.5714)"><ellipse cx="3.2" cy="3.5" rx="2.1" ry="2.7"/><path d="M3 13 11 1"/><ellipse cx="10.8" cy="10.5" rx="2.1" ry="2.7"/></g>
+    <g transform="translate(213 4) scale(0.5714)"><ellipse cx="3.2" cy="3.5" rx="2.1" ry="2.7"/><path d="M3 13 11 1"/><ellipse cx="10.8" cy="10.5" rx="2.1" ry="2.7"/></g>
+    <g transform="translate(28 33) scale(0.5714)"><ellipse cx="3.2" cy="3.5" rx="2.1" ry="2.7"/><path d="M3 13 11 1"/><ellipse cx="10.8" cy="10.5" rx="2.1" ry="2.7"/></g>
+    <g transform="translate(85.5 31.5) scale(0.7857)"><ellipse cx="3.2" cy="3.5" rx="2.1" ry="2.7"/><path d="M3 13 11 1"/><ellipse cx="10.8" cy="10.5" rx="2.1" ry="2.7"/></g>
+    <g transform="translate(129 34) scale(0.5714)"><ellipse cx="3.2" cy="3.5" rx="2.1" ry="2.7"/><path d="M3 13 11 1"/><ellipse cx="10.8" cy="10.5" rx="2.1" ry="2.7"/></g>
+    <g transform="translate(165 35) scale(0.5714)"><ellipse cx="3.2" cy="3.5" rx="2.1" ry="2.7"/><path d="M3 13 11 1"/><ellipse cx="10.8" cy="10.5" rx="2.1" ry="2.7"/></g>
+    <g transform="translate(221 33) scale(0.5714)"><ellipse cx="3.2" cy="3.5" rx="2.1" ry="2.7"/><path d="M3 13 11 1"/><ellipse cx="10.8" cy="10.5" rx="2.1" ry="2.7"/></g>
+    <g transform="translate(21 59) scale(0.7143)"><ellipse cx="3.2" cy="3.5" rx="2.1" ry="2.7"/><path d="M3 13 11 1"/><ellipse cx="10.8" cy="10.5" rx="2.1" ry="2.7"/></g>
+    <g transform="translate(47.5 77.5) scale(0.7857)"><ellipse cx="3.2" cy="3.5" rx="2.1" ry="2.7"/><path d="M3 13 11 1"/><ellipse cx="10.8" cy="10.5" rx="2.1" ry="2.7"/></g>
+    <g transform="translate(94 64) scale(0.5714)"><ellipse cx="3.2" cy="3.5" rx="2.1" ry="2.7"/><path d="M3 13 11 1"/><ellipse cx="10.8" cy="10.5" rx="2.1" ry="2.7"/></g>
+    <g transform="translate(141.5 65.5) scale(0.6429)"><ellipse cx="3.2" cy="3.5" rx="2.1" ry="2.7"/><path d="M3 13 11 1"/><ellipse cx="10.8" cy="10.5" rx="2.1" ry="2.7"/></g>
+    <g transform="translate(200.5 61.5) scale(0.5000)"><ellipse cx="3.2" cy="3.5" rx="2.1" ry="2.7"/><path d="M3 13 11 1"/><ellipse cx="10.8" cy="10.5" rx="2.1" ry="2.7"/></g>
+    <g transform="translate(239.5 69.5) scale(0.7857)"><ellipse cx="3.2" cy="3.5" rx="2.1" ry="2.7"/><path d="M3 13 11 1"/><ellipse cx="10.8" cy="10.5" rx="2.1" ry="2.7"/></g>
+    <g transform="translate(18.5 91.5) scale(0.6429)"><ellipse cx="3.2" cy="3.5" rx="2.1" ry="2.7"/><path d="M3 13 11 1"/><ellipse cx="10.8" cy="10.5" rx="2.1" ry="2.7"/></g>
+    <g transform="translate(87.5 91.5) scale(0.5000)"><ellipse cx="3.2" cy="3.5" rx="2.1" ry="2.7"/><path d="M3 13 11 1"/><ellipse cx="10.8" cy="10.5" rx="2.1" ry="2.7"/></g>
+    <g transform="translate(142 99) scale(0.5714)"><ellipse cx="3.2" cy="3.5" rx="2.1" ry="2.7"/><path d="M3 13 11 1"/><ellipse cx="10.8" cy="10.5" rx="2.1" ry="2.7"/></g>
+    <g transform="translate(186.5 92.5) scale(0.5000)"><ellipse cx="3.2" cy="3.5" rx="2.1" ry="2.7"/><path d="M3 13 11 1"/><ellipse cx="10.8" cy="10.5" rx="2.1" ry="2.7"/></g>
+    <g transform="translate(218.5 94.5) scale(0.6429)"><ellipse cx="3.2" cy="3.5" rx="2.1" ry="2.7"/><path d="M3 13 11 1"/><ellipse cx="10.8" cy="10.5" rx="2.1" ry="2.7"/></g>
+    <g transform="translate(12.5 124.5) scale(0.5000)"><ellipse cx="3.2" cy="3.5" rx="2.1" ry="2.7"/><path d="M3 13 11 1"/><ellipse cx="10.8" cy="10.5" rx="2.1" ry="2.7"/></g>
+    <g transform="translate(54 125) scale(0.5714)"><ellipse cx="3.2" cy="3.5" rx="2.1" ry="2.7"/><path d="M3 13 11 1"/><ellipse cx="10.8" cy="10.5" rx="2.1" ry="2.7"/></g>
+    <g transform="translate(109 125) scale(0.5714)"><ellipse cx="3.2" cy="3.5" rx="2.1" ry="2.7"/><path d="M3 13 11 1"/><ellipse cx="10.8" cy="10.5" rx="2.1" ry="2.7"/></g>
+    <g transform="translate(144 123) scale(0.8571)"><ellipse cx="3.2" cy="3.5" rx="2.1" ry="2.7"/><path d="M3 13 11 1"/><ellipse cx="10.8" cy="10.5" rx="2.1" ry="2.7"/></g>
+    <g transform="translate(178 123) scale(0.8571)"><ellipse cx="3.2" cy="3.5" rx="2.1" ry="2.7"/><path d="M3 13 11 1"/><ellipse cx="10.8" cy="10.5" rx="2.1" ry="2.7"/></g>
+    <g transform="translate(235.5 124.5) scale(0.5000)"><ellipse cx="3.2" cy="3.5" rx="2.1" ry="2.7"/><path d="M3 13 11 1"/><ellipse cx="10.8" cy="10.5" rx="2.1" ry="2.7"/></g>
+    <g transform="translate(16 149) scale(0.8571)"><ellipse cx="3.2" cy="3.5" rx="2.1" ry="2.7"/><path d="M3 13 11 1"/><ellipse cx="10.8" cy="10.5" rx="2.1" ry="2.7"/></g>
+    <g transform="translate(57.5 149.5) scale(0.7857)"><ellipse cx="3.2" cy="3.5" rx="2.1" ry="2.7"/><path d="M3 13 11 1"/><ellipse cx="10.8" cy="10.5" rx="2.1" ry="2.7"/></g>
+    <g transform="translate(97 153) scale(0.5714)"><ellipse cx="3.2" cy="3.5" rx="2.1" ry="2.7"/><path d="M3 13 11 1"/><ellipse cx="10.8" cy="10.5" rx="2.1" ry="2.7"/></g>
+    <g transform="translate(127 150) scale(0.8571)"><ellipse cx="3.2" cy="3.5" rx="2.1" ry="2.7"/><path d="M3 13 11 1"/><ellipse cx="10.8" cy="10.5" rx="2.1" ry="2.7"/></g>
+    <g transform="translate(164 151) scale(0.8571)"><ellipse cx="3.2" cy="3.5" rx="2.1" ry="2.7"/><path d="M3 13 11 1"/><ellipse cx="10.8" cy="10.5" rx="2.1" ry="2.7"/></g>
+    <g transform="translate(202 149) scale(0.7143)"><ellipse cx="3.2" cy="3.5" rx="2.1" ry="2.7"/><path d="M3 13 11 1"/><ellipse cx="10.8" cy="10.5" rx="2.1" ry="2.7"/></g>
+    <g transform="translate(235.5 146.5) scale(0.7857)"><ellipse cx="3.2" cy="3.5" rx="2.1" ry="2.7"/><path d="M3 13 11 1"/><ellipse cx="10.8" cy="10.5" rx="2.1" ry="2.7"/></g>
+  </g>
+</svg>
